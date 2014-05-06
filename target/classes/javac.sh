@@ -1,0 +1,1 @@
+/bin/sh -c cd /home/nasir/Documents/CS-586/Workspace/Disambiguation-Prototype1 && /home/nasir/Java/jdk1.7.0_45/jre/../bin/javac @/home/nasir/Documents/CS-586/Workspace/Disambiguation-Prototype1/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler2382955385459507439arguments
